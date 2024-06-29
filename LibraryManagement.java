@@ -17,7 +17,7 @@ class LibraryManagement {
         int id;
         Student next;
     }
-c
+
     static Book startLib = null;
     static Student start = null;
 
