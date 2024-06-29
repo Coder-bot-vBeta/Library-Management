@@ -33,7 +33,7 @@ c
         System.out.println("\t\t\t     *                                      *");
         System.out.println("\t\t\t     *                                      *");
         System.out.println("\t\t\t     *     ----------------------------     *");
-        System.out.println("\t\t\t     *      WELCOME TO STUDENT LIBRARY      *");
+        System.out.println("\t\t\t     *      WELCOME TO CENTRAL LIBRARY      *");
         System.out.println("\t\t\t     *     ----------------------------     *");
         System.out.println("\t\t\t     *                                      *");
         System.out.println("\t\t\t     *                                      *");
@@ -42,13 +42,13 @@ c
         System.out.println("\t\t\t     ****************************************");
         System.out.println("\t\t\t     *                                      *");
         System.out.println("\t\t\t     *       ------------------------       *");
-        System.out.println("\t\t\t     *           STUDENT LIBRARY            *");
+        System.out.println("\t\t\t     *           CENTRAL LIBRARY            *");
         System.out.println("\t\t\t     *       ------------------------       *");
         System.out.println("\t\t\t     *                                      *");
         System.out.println("\t\t\t     *                                      *");
-        System.out.println("\t\t\t     *       Mumbai,Maharashtra,India       *");
-        System.out.println("\t\t\t     *     Email: studentlib@gmail.com      *");
-        System.out.println("\t\t\t     *     Contact:8800991010,8800992020    *");
+        System.out.println("\t\t\t     *        IIT Delhi,Delhi,India         *");
+        System.out.println("\t\t\t     *     Email: mt1221277@iitd.ac.in      *");
+        System.out.println("\t\t\t     *     Contact:   7013974844            *");
         System.out.println("\t\t\t     *                                      *");
         System.out.println("\t\t\t     ****************************************");
         System.out.println("\n\n\t\t\t             Press any key to continue: ");
